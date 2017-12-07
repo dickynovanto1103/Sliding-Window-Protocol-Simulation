@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./bin/recvfile data/lorem.txt 500 500 8888

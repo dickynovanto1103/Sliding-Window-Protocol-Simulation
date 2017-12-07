@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./bin/sendfile data/lorem.out 500 500 127.0.0.1 8888
